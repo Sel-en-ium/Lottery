@@ -1,0 +1,17 @@
+{
+  "name": "Lottery",
+  "version": "0.0.0",
+  "description": "Statistics and such",
+  "main": "numberPicker.js",
+  "author": "Sel-en-ium",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "2.2.5",
+    "sinon": "1.16.1",
+    "should": "6.0.1"
+  },
+  "dependencies": {
+    "fs-extra": "0.20.0",
+    "path": "0.11.14"
+  }
+}
